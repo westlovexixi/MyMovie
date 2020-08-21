@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <TextView
+        android:text="Cinema Name:"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="45dp"/>
+
+    <EditText
+        android:id="@+id/cinema_name"
+        android:textSize="45dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="Cinema Postcode:"
+        android:textSize="45dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/cinema_postcode"
+        android:textSize="45dp"
+        android:inputType="number"
+        android:maxLength="4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:text="Back"
+            android:id="@+id/cancel_add_cinema"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/submit_add_cinema"
+            android:text="Submit"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+</LinearLayout>

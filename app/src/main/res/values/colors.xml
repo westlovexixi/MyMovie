@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="momo">#F596AA</color>
+    <color name="sakura">#FEDFE1</color>
+    <color name="usubeni">#E87A90</color>
+    <color name="toki">#EEA9A9</color>
+    <color name="ayame">#6F3381</color>
+    <color name="akak">#C78550</color>
+    <color name="sabi">#405B55</color>
+    <color name="sumi">#1C1C1C</color>
+    <color name="kame">#A5DEE4</color>
+    <color name="kyara">#78552B</color>
+    <color name="torin">#DAC9A6</color>
+    <color name="ouchi">#9B90C2</color>
+</resources>

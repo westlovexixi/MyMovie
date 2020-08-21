@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/it_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/it_movie_search"
+        android:title="Movie Search" />
+    <item
+        android:id="@+id/it_movie_memoir"
+        android:title="Movie Memoir"/>
+    <item
+        android:id="@+id/it_watchlist"
+        android:title="Watchlist"/>
+    <item
+        android:id="@+id/it_report"
+        android:title="Reports"/>
+    <item
+        android:id="@+id/it_map"
+        android:title="Map"/>
+</menu>
